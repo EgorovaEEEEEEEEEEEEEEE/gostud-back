@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "nik_pg15",
+    "database": "gostud_db",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "nik_pg15",
+    "database": "gostud_db",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "nik_pg15",
+    "database": "gostud_db",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}
